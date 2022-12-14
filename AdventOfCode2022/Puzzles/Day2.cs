@@ -1,4 +1,7 @@
-﻿namespace AdventOfCode2022.Puzzles
+﻿using System;
+using System.IO;
+
+namespace AdventOfCode2022.Puzzles
 {
     public static class Day2
     {
